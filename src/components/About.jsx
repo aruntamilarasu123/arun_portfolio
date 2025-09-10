@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import { FaDownload, FaReact, FaNodeJs, FaJs, FaDatabase } from "react-icons/fa";
-import profilePic from "../assets/profile.JFIF";
+import profilePic from "../assets/profile.jpg";
 import resumePDF from "../assets/Arun_T_Resume.pdf"; 
 
 export default function About() {
